@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "tʃéna",
+    "english": "morning"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/kinship_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "tʰe",
+    "english": "afternoon"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "02/10/2025",
+    "audio": "audio/vowel_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/xxxx",
+    "kono": "ɡʷa",
+    "english": "evening/night"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "People & Kinship",
+    "date": "02/10/2025",
+    "audio": "audio/vowel_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/xxxx",
+    "kono": "mokʰama",
+    "english": "man (originally from moɛ-kʰaima ‘person-man’)"
+  },
+  {
+    "category": "Phonetics and Phonology I",
+    "subcategory": "Consonants - stop voicing and place contrast",
+    "date": "01/29/2025",
+    "audio": "audio/vowel_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/xxxx",
+    "kono": "békì",
+    "english": "bag"
+  }
+]
