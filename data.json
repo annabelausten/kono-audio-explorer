@@ -5,43 +5,1240 @@
     "date": "01/22/2025",
     "audio": "audio/politeness_1.mp3",
     "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
-    "kono": "tʃéna",
+    "kono": "example",
+    "english": "%gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{tS}éna",
     "english": "morning"
   },
   {
     "category": "Basic Vocabulary",
     "subcategory": "Basics For Politeness",
     "date": "01/22/2025",
-    "audio": "audio/kinship_1.mp3",
+    "audio": "audio/politeness_1.mp3",
     "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
-    "kono": "tʰe",
+    "kono": "t\\super{h}e",
     "english": "afternoon"
   },
   {
     "category": "Basic Vocabulary",
     "subcategory": "Basics For Politeness",
-    "date": "02/10/2025",
-    "audio": "audio/vowel_1.mp3",
-    "overleaf_link": "https://www.overleaf.com/project/xxxx",
-    "kono": "ɡʷa",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "g\\super{w}a",
     "english": "evening/night"
   },
   {
     "category": "Basic Vocabulary",
-    "subcategory": "People & Kinship",
-    "date": "02/10/2025",
-    "audio": "audio/vowel_1.mp3",
-    "overleaf_link": "https://www.overleaf.com/project/xxxx",
-    "kono": "mokʰama",
-    "english": "man (originally from moɛ-kʰaima ‘person-man’)"
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "t\\super{h}ee",
+    "english": "sun"
   },
   {
-    "category": "Phonetics and Phonology I",
-    "subcategory": "Consonants - stop voicing and place contrast",
-    "date": "01/29/2025",
-    "audio": "audio/vowel_1.mp3",
-    "overleaf_link": "https://www.overleaf.com/project/xxxx",
-    "kono": "békì",
-    "english": "bag"
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "éen \\textipa{tS}éna",
+    "english": "2\\ts{sg} morning"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "éen t\\super{h}e",
+    "english": "2\\ts{sg} afternoon"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "éen g\\super{w}a",
+    "english": "2\\ts{sg} afternoon"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "wen \\textipa{tS}éna",
+    "english": "2\\ts{pl} morning"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "wen t\\super{h}e",
+    "english": "2\\ts{pl} afternoon"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "wen g\\super{w}a",
+    "english": "2\\ts{pl} afternoon"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "m-bo éen t\\super{h}e",
+    "english": "1\\Sg{}.\\Poss{}-friend 2\\Sg{}(?) day"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "mb\\super{w}\\textipa{E} éen t\\super{h}e",
+    "english": "1\\Sg{}.\\Poss{}-friend 2\\Sg{} day"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "mb\\super{w}\\textipa{E}nu ween t\\super{h}e",
+    "english": "1\\Sg{}.\\Poss{}-friend 2\\Sg{} day"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "mb\\super{w}\\textipa{E}nu ween \\textipa{tS}éna",
+    "english": "1\\Sg{}.\\Poss{}-friend 2\\Pl{} morning"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "fa éen t\\super{h}e",
+    "english": "father 2\\Sg{} day"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "nde éen t\\super{h}e",
+    "english": "mother 2\\Sg{} day"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "nde éen g\\super{w}a",
+    "english": "mother 2\\Sg{} night"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "nde éen \\textipa{tS}éna",
+    "english": "mother greet.2\\Sg{} morning"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "sa éen \\textipa{tS}éna / t\\super{h}e / g\\super{w}a",
+    "english": "Sa 2\\Sg{} morning {} day {} night"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "m-b\\super{w}\\textipa{E:}-ne",
+    "english": "1\\Sg{}.\\Poss{}-friend(?)-this(??)"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "mwaa gbɛ",
+    "english": "`goodbye' \\ds{I think he pronounced them markedly as two words}\n\n\\ex. mbe ane"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ɛ̃ŋ ŋgwai",
+    "english": "2\\ts{sg} thank"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "wɛŋ ŋgwai",
+    "english": "2\\ts{pl} thank"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ama jao",
+    "english": "not(?) bad"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "jao",
+    "english": "bad"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ii jao",
+    "english": "2SG bad"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "wo jao",
+    "english": "2PL bad"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "mok\\super{h}ama",
+    "english": "`man' \\chs{(originally from moɛ-k\\super{h}aima `person-man')}\n\n\\ex. musu"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "k\\super{h}aɛnɛ",
+    "english": "`boy' \\chs{(k\\super{h}aɛ-diɛ `man-child' for a longer version, more articulate?) }\n\n\\ex. de-musu"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "bago",
+    "english": "adult; elder\n\n\\ex. tʃɛnanɛ"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "tʃɛna-n-k\\super{h}ai",
+    "english": "adult-N-man"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "tʃɛna-musu",
+    "english": "adult-woman"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "diɛ",
+    "english": "`child'\n\n\\ex. denɛ"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "de-mɛsɛ",
+    "english": "child-small"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "denindiɛ",
+    "english": "`baby' \n\n\\ex. friend\n\n\\ex. pa-tʃɛnɛ"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "Kono people (how they refer to themselves)\n\nkinship (should we include possessives when eliciting kinship terms?):\\jal{only if they're required, sometimes possessors are required for inalienable possession}\n\n\\ex. fa",
+    "english": "father \n\n\\ex. dɛ"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "example",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "k၁a kæŋe",
+    "english": "`weaving'\n\n\\ex. k၁a"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "k၁a nima",
+    "english": "`nice dress'\n\n\\ex. nima"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "musu k(h)၁a",
+    "english": "`dress on lady'\n\n\\ex. k(h) k(h)၁a"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "musu",
+    "english": "`lady'\n\n\\ex. kai (long)(low falling)"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "kai (short)",
+    "english": "`son of a woman, name'\n\n\\ex. k၁a"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "kca  c(h)၁ŋ bwæ",
+    "english": "`caller note'\n\n\\ex. d(h)æŋe or d(h)uŋe"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "a k၁at͡ʃi",
+    "english": "3SG wear"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "aŋʊ k၁at͡ʃi",
+    "english": "3-PL wear"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ŋɐɐ k၁at͡ʃi",
+    "english": "1EXCL-POSS wear"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ŋ-ä k၁at͡ʃi",
+    "english": "1SG-POSS wear"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "d၁mɐ\n`shirt'\n\n\\ex. d၁mɐ ʎɛwa\n`red shirt'\n\n\\ex. d၁mɐ k(h)uŋu\n`long-sleeved shirt'\n\n\\ex. kuŋdu\n`short'\n\n\\ex. d၁mɐ soŋhwe\n`short-sleeved shirt'\n\n\\ex. ʎɛnsäma\n`tall/long people'\n\n\\ex. bʊŋ(w)faa\n`pants'\n\n\\ex. bʊŋ(w)fa\n`disrespect'\n\n\\ex. bʊŋ(w)faa uma\n`shorts'\n\n\\ex. bʊŋ(w)faa soŋhwe\n`pants (long)'\n\n\n\\section{Body Parts - Joey} \n\n\n\n%\\jal{I started putting comments but overall you need to go through and reorder all of these -- start with major, visible body parts, and think about what might be useful in future sentence creation; over all we need to move from simple to complex, and you won't get through your list so important to prioritize}\n\n\\exg. bóː",
+    "english": "`Body' \\jf{compare with bôː ('arm')}"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "kuné",
+    "english": "`Head'"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ejă",
+    "english": "`Eye'\n\\jf{compare with ejaː ('peanut')}"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "toː",
+    "english": "`Ear' \\jf{also means 'jealousy'}"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "súnè",
+    "english": "`Nose' \\jf{also means 'fasting'}"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "dá̆",
+    "english": "`Mouth' \\jf{consultant notes that this is related to the word for 'food'}"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "bôː",
+    "english": "`Arm' \\jf{compare with bóː ('body')}"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ibôː",
+    "english": "`Your arm'"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "mbôː",
+    "english": "`My arm'"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "t͡ʃɪ̀ˈnɛ̀̆",
+    "english": "`Leg' \\jf{compare with ˈt͡ʃɪnɛ ('house')}"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "kundi",
+    "english": "`Hair' (head)"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "buà̆",
+    "english": "`Beard' \\jf{compare with búːwà ('big belly')}"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "bù̆",
+    "english": "`Stomach' \\jf{compare with búːwà ('big belly')}"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "búːwà",
+    "english": "`Big belly' \\jf{compare with bù̆ ('stomach') and buwà̆  ('beard')}"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ìː",
+    "english": "`Brain' \\jf{also means 'water'}"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "kóŋbwè",
+    "english": "fruit"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "màá",
+    "english": "orange"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "kòŋbíí",
+    "english": "papaya"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "máŋɡò",
+    "english": "mango"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "fétù",
+    "english": "pineapple"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "`Watermelon'\n%he said they don't generally have this kind of fruit\n\n\\exg. ɡwèvá",
+    "english": "guava"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "swéé",
+    "english": "animal"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "skwà",
+    "english": "monkey"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "`Hippopotamus'\n\n\\exg. kàà",
+    "english": "snake"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "tʰwá",
+    "english": "rat"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "úú",
+    "english": "dog"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ɲàŋɡùmá",
+    "english": "cat"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "`Flower'\n\n\nMisc:\n\\exg. kòné",
+    "english": "tree"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "bándà",
+    "english": "cotton\\_tree"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ɡ͜bɛ́ɛ́",
+    "english": "oil\\_palm"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ji:",
+    "english": "`water'\n        \n    \\ex. ji: ndɛ"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ji: dɔ:ma",
+    "english": "water small"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ji: wa",
+    "english": "water big"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "kong$^w$ɛ",
+    "english": "`mountain'\n           \n    \\exg. f$^j$a wa"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "sona",
+    "english": "`rain'\n\n    \\ex. sonɛna"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "banda",
+    "english": "`cloud', `sky'\n\n    \\exg. banda finɛ"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "winɛ",
+    "english": "`hot'\n        \n    \\ex. t͡ʃi:ma"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "t$^h$e:",
+    "english": "`sun', `day'\n        \n    \\exg. t$^h$e: dondo"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "t$^h$e: f$^j$a",
+    "english": "day two"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "t$^h$e: sawa",
+    "english": "day three"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "bi",
+    "english": "`today'\n\n    \\ex. síná"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "kúnú",
+    "english": "`yesterday'\n\n    %\\mb{Tones in Kono are difficult for me to perceive, but for `tomorrow' and `yesterday', I think they both have HH.}\n\n    \\ex. t$^h$e:ma"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "sama",
+    "english": "`rainy season'\n\n               \n\\section{Food, Cooking - Jan} \n\\jal{looks like you've looked at some sources, which is great; include possible translations when we have them; also a good chance to ask him what they eat and how they cook it; food \\& cooking will be very useful terminology for examples later }\n\\exg. \\textipa{daofine}"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{fine}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{du\\texttoptiebar{mb}ii}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{k\\super wee}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{ta\\ng \\'a}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{t\\super ha\\ng aumba}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{\\texttoptiebar{mb}und\\'e}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{jo\\texttoptiebar{gb}\\'a}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{t\\super hueawa}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{jawa}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{k\\super wie}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{ej\\'a\\'a}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{ij}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{eab\\'asi}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{swei}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{\\texttoptiebar{pf}ut\\super hu}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{\\texttoptiebar{pf}uu}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{t\\super hee}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{\\textltailn ee}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{k\\super wi}",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{t\\textesh\\'{e}n\\`{e}}",
+    "english": "`house', `home'"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{t\\textesh\\'{e}m-b\\'{a}}",
+    "english": "house-big(?)"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{\\textturnr\\'{u}mu}",
+    "english": "bedroom"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{s\\'{o}fa}",
+    "english": "bed"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{k\\'{\\i}t\\textesh i}",
+    "english": "kitchen"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{p\\'{a}lwe}",
+    "english": "common space in home"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{p\\'\\textepsilon sa}",
+    "english": "sitting area outside house"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{t\\textsuperscript h\\'{e}bu}",
+    "english": "table"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{s\\`{i}} \\textipa{f\\'{e}n\\`{e}}",
+    "english": "sit thing"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{\\texttoptiebar{gb}\\v{o}} \\textipa{s\\'{a}} \\textipa{f\\'{e}n\\`{e}}",
+    "english": "book put thing"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{b\\'{o}}",
+    "english": "padlock"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{b\\^{o}}",
+    "english": "curse"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{l\\'{a}mpi}",
+    "english": "lamp"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "\\textipa{m\\'{a}m} \\textipa{f\\'{e}n\\`{e}}",
+    "english": "light thing"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "tácɛ̂",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "bembɛnɛ̂",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "sâ\\super{m}b\\super{h}a",
+    "english": "specific type of drum or all drums?"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "example",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "example",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "example",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ˈfʊtbɔːli",
+    "english": "specific type of drum or all drums?"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "T͡ʃ\\super{j}ɛnɖ͡ʐɛnɛ",
+    "english": "specific type of drum or all drums?"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "tɒmbwɛ",
+    "english": "a specific type of dance or all dances?"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "bód\\super{ɪ}ja",
+    "english": "related to the word for stomach/belly"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "s\\super{u}winɛ",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "si",
+    "english": "gloss"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "ɲɛp\\super{h}ɑɪ́nɛ̂",
+    "english": "ɲɛ – fish, p\\super{h}ɑɪ́nɛ̂ – to chase something"
+  },
+  {
+    "category": "Basic Vocabulary",
+    "subcategory": "Basics For Politeness",
+    "date": "01/22/2025",
+    "audio": "audio/politeness_1.mp3",
+    "overleaf_link": "https://www.overleaf.com/project/684c2e9b72471fbdbb550325",
+    "kono": "kanɛ̂",
+    "english": "do all verbs end in ɛ̂?"
   }
 ]

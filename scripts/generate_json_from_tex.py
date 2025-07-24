@@ -1,9 +1,8 @@
 import json
 import re
-from datetime import datetime
 
 # Path to your LaTeX file
-TEX_FILE = "Kono_Spring2025-CURF-01222025.tex"
+TEX_FILE = "/workspaces/kono-audio-explorer/latex/01222025 (1).tex"
 
 # Output path for your JSON
 OUTPUT_JSON = "data.json"
@@ -15,26 +14,29 @@ DEFAULT_AUDIO = "audio/politeness_1.mp3"
 DEFAULT_DATE = "01/22/2025"
 DEFAULT_OVERLEAF_LINK = "https://www.overleaf.com/project/684c2e9b72471fbdbb550325"
 
-# Regex to match glossed lines
-GLOSS_PATTERN = re.compile(r'\\exg\.\s*(.*?)\s*\\tab\s*(.*?)\s*\\\\')
+# Regex to match \ex. or \exg. lines followed by English gloss, each ending with '\\'
+# Pattern captures content between \ex[ or \exg.] and double backslash, then next line (English) also ending with double backslash
+GLOSS_PATTERN = re.compile(
+    r'\\exg?\.?\s*(.*?)\\\\\s*(.*?)\\\\', 
+    re.DOTALL
+)
 
 def extract_glosses(tex_path):
-    results = []
     with open(tex_path, 'r', encoding='utf-8') as f:
-        for line in f:
-            match = GLOSS_PATTERN.search(line)
-            if match:
-                kono_word = match.group(1).strip()
-                english_gloss = match.group(2).strip()
-                results.append({
-                    "category": DEFAULT_CATEGORY,
-                    "subcategory": DEFAULT_SUBCATEGORY,
-                    "date": DEFAULT_DATE,
-                    "audio": DEFAULT_AUDIO,
-                    "overleaf_link": DEFAULT_OVERLEAF_LINK,
-                    "kono": kono_word,
-                    "english": english_gloss
-                })
+        tex_content = f.read()
+
+    matches = GLOSS_PATTERN.findall(tex_content)
+    results = []
+    for kono_word, english_gloss in matches:
+        results.append({
+            "category": DEFAULT_CATEGORY,
+            "subcategory": DEFAULT_SUBCATEGORY,
+            "date": DEFAULT_DATE,
+            "audio": DEFAULT_AUDIO,
+            "overleaf_link": DEFAULT_OVERLEAF_LINK,
+            "kono": kono_word.strip(),
+            "english": english_gloss.strip()
+        })
     return results
 
 def write_json(data, out_path):
